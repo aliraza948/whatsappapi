@@ -1,0 +1,16 @@
+{
+  "name": "whatsappapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node --transpile-only index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^23.10.0",
+    "tsc-node": "^0.0.3",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
